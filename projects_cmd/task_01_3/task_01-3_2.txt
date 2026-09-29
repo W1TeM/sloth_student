@@ -1,0 +1,11 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+ren4wis    33312  200  0.0 235284  5060 pts/1    R+   21:44   0:00 ps aux --sort=-%cpu
+ren4wis    28348  4.7  1.4 3649352 478380 ?      Sl   20:47   2:41 /home/ren4wis/zen/zen -contentproc -isForBrowser -prefsHandle 0:50595 -prefMapHandle 1:301623 -jsInitHandle 2:160936 -parentBuildID 20260904060728 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {9d68b24a-d9dc-44f0-952c-6be8fdb45e30} -parentPid 3484 -greomni /home/ren4wis/zen/omni.ja -appomni /home/ren4wis/zen/browser/omni.ja -appDir /home/ren4wis/zen/browser 58 tab
+ren4wis     3484  3.4  2.5 13117976 805908 ?     Ssl  08:34  26:57 /home/ren4wis/zen/zen
+ren4wis     2261  2.6  0.9 4713784 289324 ?      Sl   08:34  21:12 /usr/bin/kwin_wayland --wayland-fd 7 --socket wayland-0 --xwayland-fd 8 --xwayland-fd 9 --xwayland-display :0 --xwayland-xauthority /run/user/1000/xauth_oCvvvQ --xwayland
+ren4wis     2464  1.7  1.5 7309080 488148 ?      Ssl  08:34  13:30 /usr/bin/plasmashell --no-respawn
+ren4wis     4023  1.5  2.8 4127380 905904 ?      Sl   08:34  12:33 /home/ren4wis/zen/zen -contentproc -isForBrowser -prefsHandle 0:49990 -prefMapHandle 1:301623 -jsInitHandle 2:160936 -parentBuildID 20260904060728 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {748ed70e-b64c-4101-8504-4d3d49a34672} -parentPid 3484 -greomni /home/ren4wis/zen/omni.ja -appomni /home/ren4wis/zen/browser/omni.ja -appDir /home/ren4wis/zen/browser 10 tab
+ren4wis    28456  1.2  0.6 3212896 220704 ?      Sl   20:49   0:41 /home/ren4wis/zen/zen -contentproc -isForBrowser -prefsHandle 0:50595 -prefMapHandle 1:301623 -jsInitHandle 2:160936 -parentBuildID 20260904060728 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {223af2f9-b788-466d-a27e-8f81ff527443} -parentPid 3484 -greomni /home/ren4wis/zen/omni.ja -appomni /home/ren4wis/zen/browser/omni.ja -appDir /home/ren4wis/zen/browser 59 tab
+ren4wis    16524  1.1  1.0 1111472 349232 ?      Sl   11:11   7:26 /home/ren4wis/.local/share/Steam/ubuntu12_32/steam -srt-logger-opened steam://rungameid/548430
+ren4wis    31158  1.1  1.4 6643568 475436 ?      Ssl  21:18   0:17 /usr/bin/spectacle --dbus
+ren4wis    27882  0.8  1.5 1652240 499888 ?      Sl   20:46   0:28 /home/ren4wis/Telegram/Telegram

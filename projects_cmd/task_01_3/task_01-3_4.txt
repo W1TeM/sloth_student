@@ -1,0 +1,27 @@
+8.5G	/home/ren4wis/Downloads/remnux-noble-amd64-disk1.vmdk
+8.4G	/home/ren4wis/Downloads/remnux-noble-amd64.ova
+4.5G	/home/ren4wis/Downloads/Buzz-1.4.5-Linux-Appimage-X64.zip
+1.7G	/home/ren4wis/Downloads/Telegram Desktop/TCM - Practical Malware Analysis & Triage 002.zip
+801M	/home/ren4wis/Downloads/Telegram Desktop/TCM - Practical Malware Analysis & Triage 001.zip
+327M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/5. Debugger Stepping Basics/1. Debugger Stepping Basics.mp4
+238M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/6. Stepping Into Calls/1. Stepping Into Calls.mp4
+152M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/9. How to patch a program/1. How to patch a program.mp4
+117M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/7. Breakpoints/2. Setting Breakpoints on Strings.mp4
+117M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/4. Preparing workspace for reverse engineering/1. Preparing workspace for reverse engineering.mp4
+105M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/8. Reversing Jumps/1. Reversing Jumps.mp4
+92M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/9. How to patch a program/2. Patching with Jumps.mp4
+92M	/home/ren4wis/Downloads/AmneziaVPN_5.0.1.5_linux_x64.run
+90M	/home/ren4wis/Downloads/zen.linux-x86_64.tar.xz
+86M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/7. Breakpoints/1. Breakpoints.mp4
+76M	/home/ren4wis/Downloads/tsetup.7.1.2.tar.xz
+69M	/home/ren4wis/Downloads/Telegram Desktop/20260903_161046.m4a
+61M	/home/ren4wis/Downloads/Telegram Desktop/20260903_140704.m4a
+61M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/2. Installing x64dbg/1. Installing x64dbg and Detect It easy.mp4
+43M	/home/ren4wis/Downloads/Igl_GHIDRA-Polnoe-rukovodstvo.639432.pdf
+21M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/3. Downloading CrackMe's for practising/1. Downloading CrackMe.mp4
+20M	/home/ren4wis/Downloads/steam_latest.deb
+14M	/home/ren4wis/Downloads/Telegram Desktop/Практический_анализ_двоичных_файлов_2.pdf
+12M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/1. Introduction/1. Introduction.mp4
+11M	/home/ren4wis/Downloads/vdoc.pub_-.pdf
+11M	/home/ren4wis/Downloads/Telegram Desktop/Reverse_Engineering_for_Beginners.2023.pdf
+11M	/home/ren4wis/Downloads/Reverse Engineering 1 - x64dbg Debugger for Reverse Engineering Beginners/10. Additional Resources/1. Bonus Lecture.mp4
